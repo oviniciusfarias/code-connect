@@ -120,6 +120,7 @@ textarea {
 
 .lista-tags {
   display: flex;
+  gap: 10px;
 }
 
 .container-botoes {
@@ -136,6 +137,7 @@ textarea {
   font-family: var(--font-family);
   font-size: 18px;
   font-weight: 500;
+  cursor: pointer;
 }
 
 .botao-descartar {
